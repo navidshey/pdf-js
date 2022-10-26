@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Draw shapes using PdfJs in React
 
-This is a sample for using Pdf.js in React and typescript. In this project we open a pdf file, and you are able to draw Line, Circle, Rectangle and Polygon, zoom in and out, tracing between pages.
+This is a sample for using Pdf.js in React and typescript. In this project we open a pdf file and you are able to draw Line, Circle, Rectangle and Polygon, zoom in and out, tracing between pages.
 
 ## Available Scripts
 
